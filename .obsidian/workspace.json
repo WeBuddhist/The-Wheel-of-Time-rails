@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8896e91e801fbab2",
+        "id": "4bd08e290d8e1748",
         "type": "tabs",
         "children": [
           {
-            "id": "d066ca5c15f520a5",
+            "id": "1c011c3f31dc44aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།"
             }
           }
         ]
@@ -197,8 +197,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d066ca5c15f520a5",
+  "active": "1c011c3f31dc44aa",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
+    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
+    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -211,7 +215,6 @@
     "CLAUDE.md",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -231,9 +234,6 @@
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/format-root-text/SKILL.md"
   ]
 }
