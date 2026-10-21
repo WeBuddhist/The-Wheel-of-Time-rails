@@ -199,9 +199,10 @@
   },
   "active": "1c011c3f31dc44aa",
   "lastOpenFiles": [
+    "1-SOURCES/Text/དཔལ་དུས་ཀྱི་འཁོར་ལོ་-ཤློཀ་བགོས།.md",
+    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
     "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
     "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
-    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md"
+    "4-SYSTEM/Skills/format-commentary/SKILL.md"
   ]
 }
