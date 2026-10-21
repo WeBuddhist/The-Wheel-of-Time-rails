@@ -199,8 +199,9 @@
   },
   "active": "1c011c3f31dc44aa",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ། ཤོ་ལོ་ཀ་བཅད་པ.md",
     "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
     "1-SOURCES/Commentaries/doc1_segmented.md",
     "1-SOURCES/Commentaries/doc2_segmented (1).md",
     "1-SOURCES/Commentaries/vimalaprabha_BiMaLa_segmented.md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md"
+    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
   ]
 }
