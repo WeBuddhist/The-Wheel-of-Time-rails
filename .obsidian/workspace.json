@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/འགྲེལ་ཆེན་དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་བཞི་པ།.md",
+                "file": "1-SOURCES/Commentaries/དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་དང་པོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "འགྲེལ་ཆེན་དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་བཞི་པ།"
+              "title": "དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་དང་པོ།"
             }
           }
         ]
@@ -199,13 +199,14 @@
   },
   "active": "1c011c3f31dc44aa",
   "lastOpenFiles": [
+    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
+    "1-SOURCES/Commentaries/འགྲེལ་ཆེན་དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་བཞི་པ།.md",
     "1-SOURCES/Commentaries/འགྲེལ་ཆེན་དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་གསུམ་པ།.md",
     "1-SOURCES/Commentaries/འགྲེལ་ཆེན་དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་གཉིས་པ།.md",
-    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
-    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
     "1-SOURCES/Commentaries/དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་ལྔ་པ།.md",
     "1-SOURCES/Commentaries/དྲི་མ་མེད་པའི་འོད་ཀྱི་རྒྱ་ཆེར་བཤད་པ་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པ། གླེགས་བམ་དང་པོ།.md",
-    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
     "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ། ཤོ་ལོ་ཀ་བཅད་པ.md",
     "1-SOURCES/Commentaries/doc1_segmented.md",
     "1-SOURCES/Commentaries/doc2_segmented (1).md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/reference-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md"
   ]
 }
